@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:DD2476&height=220&section=header&text=Md.%20Mahbubur%20Rahman&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/mahbub2236/mahbub2236/main/banner.jpg" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahbub2236.mahbub2236" />
 
@@ -90,5 +90,3 @@
 💡 I enjoy debugging complex problems more than writing simple code 😄  
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:DD2476,100:FF512F&height=130&section=footer"/>
