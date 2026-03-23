@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Mahbub2236/Mahbub2236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![logo](https://github.com/mahbub2236/mahbub.png)
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahbub2236/mahbub2236" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mahbub2236.mahbub2236" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md.+Mahbubur+Rahman!;+Laravel+Developer!;" />
@@ -88,9 +77,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-
-
-
 ---
 
 ## 📈 Activity Graph
@@ -99,10 +85,18 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+
+- 📧 Email: your-email@example.com  
+- 💬 Facebook: https://www.facebook.com/mrs508  
+- 💼 LinkedIn: https://www.linkedin.com/in/mrs508/  
+
+---
+
+## ⚡ Fun Fact
+
+😄 I love coding, learning new technologies, and turning ideas into real-world applications!
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
